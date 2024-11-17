@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-void sort(char * strings[],int n)
+void sort(char strings[],int n)
 {
     char buffer[30];
     for(int i=0;i<n;i++)
